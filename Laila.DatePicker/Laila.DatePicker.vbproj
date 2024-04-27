@@ -7,7 +7,7 @@
     <UseWPF>true</UseWPF>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Laila.DatePicker</Title>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Laïla Blomme</Authors>
     <Description>A .NET6 DatePicker featuring auto-sizing, highlighted dates, simplified input and red underlined false input.</Description>
     <Copyright>Copyright © 2024 by Laïla Blomme</Copyright>
