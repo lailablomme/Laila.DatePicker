@@ -1,4 +1,4 @@
-﻿# MetroWindow
+﻿# Laila.DatePicker
 A .NET6 DatePicker featuring auto-sizing, highlighted dates, simplified input and red underlined false input.
 
 ## Installation
